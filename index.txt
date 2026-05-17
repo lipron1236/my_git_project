@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello from My PC!
+=======
+Hello from GitHub!
+>>>>>>> 24a78953da92c747b43df8888f2b6aa7ff3adc59
